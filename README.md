@@ -4,7 +4,7 @@
 Perform a qualitative review using NLP
 
 ## TO DO
-- [ ] update pubmed database
+- [x] update pubmed database
 - [ ] select article from pubmed
 - [ ] get full text
 - [ ] vectorize content
