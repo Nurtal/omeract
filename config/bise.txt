@@ -1,0 +1,3 @@
+PARAMETER,VALUE
+pmid_list,"/home/bran/Workspace/omeract/data/pmid.csv"
+pq_folder,"/home/bran/Data/pubmed/parquet"
